@@ -1,0 +1,28 @@
+body {
+  background-color: #3287dc;
+}
+
+.campos {
+  border: solid red;
+  border-radius: 10px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  width: 60%
+}
+.contenedor {
+  display: flex;
+  justify-content: flex-end;
+}
+.header {
+  padding: 35px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.login {
+  margin: 70px;
+}
+nav a {
+  text-decoration: none;
+}
