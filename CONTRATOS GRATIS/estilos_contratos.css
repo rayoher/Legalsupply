@@ -1,0 +1,119 @@
+body
+{
+	background-color:  #ffffe3;
+}
+.head{
+	display: flex;
+	justify-content: space-between;
+}
+.logo{
+	margin-top: auto;
+	display:inline-flex;
+	justify-content: flex-start;
+	width: 200px;
+}
+.menu{
+	display: flex;
+	margin-top: 10px;
+	justify-content: space-around;
+	width: 150px;
+	}
+.imgayuda{
+	display: inline-flex;
+	background-image: url(imgayuda.jpg);
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 30px;
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+.portada{
+	color: white;
+	margin-top: 150px;
+	background-color: #87e0ff; 
+	display: inline-block;
+	position: static;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	font-size: 30px;
+			}
+
+.selecciona{
+	margin-top: 50px;
+	font-size: 35px;
+	display: flex;
+	justify-content: center;
+	}
+
+.materias{
+	display: inline-flex;
+	margin: 50px; 
+	}
+ 
+.civil{
+	margin-left: 80px;
+	}
+
+.mercantil{
+	margin-left: 60px;
+	}
+
+.laboral{
+	margin-left: 60px;
+	margin-right: 60px;
+		}
+
+.logos{
+    background-color: #53c7f0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 50px;
+    width: auto;
+	padding-right: 15px;
+	border: 10px;
+	justify-content: flex-end;
+	display: flex;
+}
+.fb{
+	margin-top: 15px;
+	height: 30px;
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+.tw{
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 30px;
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+.whats{
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 30px;
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+.imgborder{
+	margin-top: 15px;
+	margin-left: 25px;
+	height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;	
+}
